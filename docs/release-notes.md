@@ -11,3 +11,5 @@
 ## Known issues
 
 - Exporting to PDF may take longer than expected on older machines.
+
+status: merged
